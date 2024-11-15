@@ -87,4 +87,4 @@ To quickly set up a local working environment containing `style50`, `check50`, a
 I like to share my progress which also helps motivate
 me to finish the course faster. Although if any directors 
 of the course want me to take this down I will gladly do so, 
-just shoot me a message via <ahmedrbpo@gmail / ahmedrbpo@outlook.com>
+just shoot me a message via <ahmedrbpo@gmail.com / ahmedrbpo@outlook.com>
