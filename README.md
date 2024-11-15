@@ -1,5 +1,5 @@
 
-# CS50-Python - 2023
+# CS50-Python - 2024
 
 [General Information](https://pll.harvard.edu/course/cs50s-introduction-programming-python/2023-05)
 
