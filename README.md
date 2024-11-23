@@ -89,7 +89,7 @@ Whereas [CS50x](https://github.com/yasingunay/CS50x-2023) itself focuses on comp
 ### [Week 9](/Week%209/) - [Et Cetera](https://cs50.harvard.edu/python/2022/weeks/9/)
 - No problem set for this week.
 
-### [Final Project](https://cs50.harvard.edu/python/2022/project/) - [News_Headline-Engine](https://cs50.harvard.edu/python/2022/weeks/9/)
+### [Final Project](https://cs50.harvard.edu/python/2022/project/) - [News_Headline-Engine](https://github.com/ahmedrbpo/News_Headline-Engine)
 
 ![50!](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*IYCifTCCR2ah-79u94Z3wg.png)
 
