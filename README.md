@@ -86,7 +86,7 @@ Whereas [CS50x](https://github.com/yasingunay/CS50x-2023) itself focuses on comp
 - [Cookie Jar](/Week%208/jar/)
 - [CS50 Shirtificate](/Week%208/shirtificate/)
 
-### Week 9 - [Et Cetera](https://cs50.harvard.edu/python/2022/weeks/9/)
+### [Week 9] - [Et Cetera](https://cs50.harvard.edu/python/2022/weeks/9/)
 - No problem set for this week.
 
 ### [Final Project](https://cs50.harvard.edu/python/2022/project/) -
